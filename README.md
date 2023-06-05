@@ -1,2 +1,2 @@
 # Modelo_IA_back
-artimanhas 
+Artimanhas para rodar modelo de IA  
